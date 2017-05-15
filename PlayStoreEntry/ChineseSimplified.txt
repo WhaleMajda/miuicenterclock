@@ -1,36 +1,36 @@
 ﻿TITLE
 *****
 
-MIUI Center Clock (unofficial)
+MIUI Center Clock (非官方)
 
 SHORT DESCRIPTION
 *****************
 
-Center Clock let's you easily change the look of your status bar under MIUI.
+Center Clock能让您轻松地更改MIUI系统的状态栏外观。
 
 FULL DESCRIPTION
 ****************
 
-This app requires ROOT!
+本应用需要ROOT!
 
-It downloads and applies the popular Center Clock Mod from mi-globe.com. It will display the clock in the middle of the status bar like on iOS.
-
-
-<b>DISCLAIMER:</b>
-This app is unofficial and not linked to MIUI or Xiaomi.
+从mi-globe.com下载并应用热门的Center Clock[时间居中]模块。能让时钟在状态栏居中显示，酷似iOS风格。
 
 
-<b>Features:</b>
-★Enable/disable Center Clock Mod
-★works on-the-fly without reboot
-★Mod is downloaded directly from mi-globe.com
-★Other mods (like Beauty Mod) are preserved
+<b>免责声明:</b>
+本应用为非官方并与MIUI或小米公司无任何关系。
 
-<b>Prerequisites:</b>
-★MIUI 8 ROM installed (Beta versions are not supported)
-★Device is rooted
 
-<b>Supported devices:</b>
+<b>功能:</b>
+★启用/停用Center Clock[时间居中]模块
+★无需重启手机即可看到效果
+★模块可直接从mi-globe.com中下载
+★保留其他模块(如美化模块)
+
+<b>前提要求:</b>
+★必须安装有MIUI 8 ROM (不支持开发版)
+★手机必须已Root
+
+<b>支持的设备有:</b>
 ★Mi 2 /s - aries
 ★Mi 3 / 4 - cancro
 ★Mi 4c - libra
